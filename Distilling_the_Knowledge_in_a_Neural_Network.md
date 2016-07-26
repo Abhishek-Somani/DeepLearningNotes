@@ -14,4 +14,4 @@ Important Points:
 -  The idea of distillation does not fit in the idea of using large number of specialist net instead of single large net.
 
 Questions:
-- Would like to see how the distillation method would perform if each specialist let were distilled ?
+- Would like to see how the distillation method would perform if each specialist net were distilled ?
