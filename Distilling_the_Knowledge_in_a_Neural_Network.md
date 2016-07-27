@@ -15,5 +15,5 @@ Important Points:
 -  It shows that distillation works well for transferring knowledge from an ensemble or highly regularised model into a smaller model
 
 Questions:
-- It did not discuss about how the specialists and the generalized nets are combined to give a single net ?
-- I would like to know how the specialist would distill knowledge without the help of generalized net ?
+- It did not discuss about distilling the knowledge from specialist into one single net ?
+- I would like to know how the specialist would distill knowledge without the help of generalized net, like coufusing classes combined into one specialist which decides the fate of prediction?
