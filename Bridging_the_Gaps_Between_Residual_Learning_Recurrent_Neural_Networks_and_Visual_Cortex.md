@@ -1,0 +1,3 @@
+##[Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex](https://arxiv.org/abs/1604.03640)
+
+We know that resnets have outperformed humans in tasks like image classification on the imagenet dataset. The author argues that a class of moderately deep RNNs is a biologically-plausible model of the visual cortex but not the ultra deep resnets. The author proposes that RNN are exactly equivalent to very deep Resnet with weight sharing which performs similar to the Resnet and have less number of parameters. So, he argues that the success of resnets has come from it's recurrent computations that is required for the recongnition task.
