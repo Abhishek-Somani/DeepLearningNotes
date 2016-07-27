@@ -12,6 +12,7 @@ Important Points:
 -  The temperature used in the softmax layer is generally between 1 to 10 and it depends on the problem being tackled.
 -  The small model is able to generalize well. For example, the MNIST network learns the the knowledge about how to generalize that is learned from translated training data even though the transfer set does not contain any translations.
 -  The small model is also able to generalize well on new type of data. For example, the MNIST networks learn to recognize digits without ever having seen them, solely based on the "errors" that the teacher network makes. (Bias needs to be adjusted)
+-  It describes the ease of implementation and parallerism that comes with the specialist frame work in comparision with the Mixture of experts frame work
 -  It shows that distillation works well for transferring knowledge from an ensemble or highly regularised model into a smaller model
 
 Questions:
